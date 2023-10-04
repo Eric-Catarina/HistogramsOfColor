@@ -16,4 +16,3 @@
 
 <br>
 
-### O código gera uma imagem com listras brancas e vermelhas de intensidade aleatória.
