@@ -3,11 +3,14 @@
 
 <p align="center">
   <br>
-  <img height="400" align="center" src="/Documento_Página 1.jpg">
+  <img align="center" src="/Documento_Página 1.jpg">
   <br>
-  <img height="400" align="center" src="/Documento_Página 2.jpg">
   <br>
-  <img height="400" align="center" src="/Documento_Página 3.jpg">
+  <img align="center" src="/Documento_Página 2.jpg">
+  <br>
+  <br>
+
+  <img align="center" src="/Documento_Página 3.jpg">
 
 </p>
 
